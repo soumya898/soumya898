@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://www.skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png)]
+![MasterHead](https://www.skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png)
 <h1 align="center">Holla,👋 I'm Soumya Ranjan Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
