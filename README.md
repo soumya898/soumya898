@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![MasterHead](https://www.skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png)
+
 <h1 align="center">Holla,👋 I'm Soumya Ranjan Nayak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=17&pause=1000&color=1F71F7&background=C93DFF00&width=435&lines=A+passionate+frontend+developer+from+India;Aspiring+Full+stack++Web+Developer+" alt="Typing SVG" /></a>
+   </div>
+
 <img align ="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 
