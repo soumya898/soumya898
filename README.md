@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p >
     <a href="https://linkedin.com/in/linkedin.com/in/soumya-ranjan-nayak-259754232" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="linkedin.com/in/soumya-ranjan-nayak-259754232" height="30" width="40" /></a>
@@ -101,15 +101,16 @@ Here are some ideas to get you started:
 </p>                                               
                                       <!-- Fronted -->
 <!-- <div align="center"><h3 align="center">Frontend</h3> -->
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-   <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+ <div > 
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  alt="html5">
+   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  alt="css3">
+   <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"   alt="redux" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
+  </div>
    
- </div>
+
 
  <br/>
                                   <!-- Backend -->
@@ -122,7 +123,7 @@ Here are some ideas to get you started:
  <br/>
   -->
                                                       <!-- Tools -->
- <div align="center"><h3 align="center">Tools</h3> 
+ <div align="left"><h3 >Tools</h3> 
    
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
